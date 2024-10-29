@@ -1,0 +1,4 @@
+Knowledge focus:
+-Macine Learning
+-Git
+-Web Dev
