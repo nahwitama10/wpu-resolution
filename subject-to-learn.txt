@@ -1,4 +1,8 @@
 Knowledge focus:
 -Macine Learning
+  *K-Means
 -Git
 -Web Dev
+  *Html+CSS
+  *JavaScript
+-Progamming Language
