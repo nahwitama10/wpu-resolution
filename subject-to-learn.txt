@@ -1,4 +1,7 @@
 Knowledge focus:
 -Macine Learning
+  *CNN
+  *Random Forest
 -Git
 -Web Dev
+-Dev Ops
