@@ -1,8 +1,11 @@
 Knowledge focus:
 -Macine Learning
   *K-Means
+  *CNN
+  *Random Forest
 -Git
 -Web Dev
   *Html+CSS
   *JavaScript
 -Progamming Language
+-Dev Ops
